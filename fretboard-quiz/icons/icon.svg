@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1c1612"/>
+  <rect x="136" y="96" width="240" height="340" rx="10" fill="#4f3220"/>
+  <rect x="128" y="88" width="256" height="16" rx="5" fill="#efe6d6"/>
+  <g stroke="#c9c2b8" stroke-width="6">
+    <line x1="136" x2="376" y1="180" y2="180"/><line x1="136" x2="376" y1="264" y2="264"/>
+    <line x1="136" x2="376" y1="348" y2="348"/><line x1="136" x2="376" y1="432" y2="432"/>
+  </g>
+  <g stroke="#e0d6c8">
+    <line x1="156" x2="156" y1="96" y2="436" stroke-width="7"/>
+    <line x1="196" x2="196" y1="96" y2="436" stroke-width="6"/>
+    <line x1="236" x2="236" y1="96" y2="436" stroke-width="5"/>
+    <line x1="276" x2="276" y1="96" y2="436" stroke-width="4"/>
+    <line x1="316" x2="316" y1="96" y2="436" stroke-width="3.2"/>
+    <line x1="356" x2="356" y1="96" y2="436" stroke-width="2.6"/>
+  </g>
+  <circle cx="256" cy="306" r="11" fill="#e9dcc6" opacity=".55"/>
+  <circle cx="276" cy="222" r="34" fill="#f0a33a" stroke="#1c1612" stroke-width="6"/>
+  <text x="276" y="235" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="36" fill="#1c1612" text-anchor="middle">G</text>
+</svg>
